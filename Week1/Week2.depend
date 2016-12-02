@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1476397472 source:f:\210ct\labs\week2\main.cpp
+	<iostream>
+
+1476267488 source:e:\210ct\labs\week2\main.cpp
+	<iostream>
+
+1476272422 source:e:\210ct\labs\week2\task1.cpp
+	<array>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1476397662 source:f:\210ct\labs\week2\task1-old.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1476553350 source:f:\210ct\labs\week2\task2.cpp
+	<iostream>
+
+1480631625 source:e:\210ct\labs\week1\main.cpp
+	<iostream>
+
+1480634958 source:e:\210ct\labs\week1\task2.cpp
+	<iostream>
+	<limits>
+
+1480617545 source:e:\210ct\labs\week1\task1-old.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<limits>
+
+1480634898 source:e:\210ct\labs\week1\task1-new.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<limits>
+

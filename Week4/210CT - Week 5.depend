@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1478007576 source:f:\marc temp\210ct - week 5\main.cpp
+	<iostream>
+
+1480646257 source:e:\210ct\labs\week4\main.cpp
+	<iostream>
+	<vector>
+	<limits>
+

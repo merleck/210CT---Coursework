@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1476791238 source:e:\210ct\labs\week3\week3\main.cpp
+	<iostream>
+
+1476791273 source:e:\210ct\labs\week3\week3\task1.cpp
+	<iostream>
+	<cmath>
+
+1479944602 source:e:\210ct\labs\week2\task1.cpp
+	<iostream>
+	<cmath>
+
+1479944628 source:e:\210ct\labs\week2\main.cpp
+	<iostream>
+
